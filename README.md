@@ -20,7 +20,7 @@ This starts PostgreSQL, runs the migrations, creates the seed users, imports `se
 
 | What | URL |
 |---|---|
-| Web UI | http://localhost:8080 |
+| Web UI | http://localhost:8081 |
 | API | http://localhost:8000 |
 | Interactive API docs | http://localhost:8000/docs |
 | Health check | http://localhost:8000/health |
