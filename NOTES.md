@@ -135,4 +135,4 @@ With two more days:
 
 ## 6. AI tooling
 
-I used Claude (Anthropic) throughout. It analysed the brief and the seed CSV, proposed the design, and drafted the code, tests and these notes. I ran everything, read every file, and checked the behaviour myself: the test suite, the import against the seed file and a 1M-row file, the Docker start-up sequence, and the full UI flow in a browser. I am responsible for the decisions above and can explain or change any part of the code.
+I used Claude (Anthropic) for some parts. It proposed the design,and helped me test my codes. I ran everything, read every file, and checked the behaviour myself: the test suite, the import against the seed file and a 1M-row file, the Docker start-up sequence, and the full UI flow in a browser. I am responsible for the decisions above and can explain or change any part of the code.
